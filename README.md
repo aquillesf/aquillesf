@@ -1,13 +1,32 @@
-Olá 👋 Meu nome é Aquiles.
-========================
+![](https://komarev.com/ghpvc/?username=heitorrosa&style=flat&color=grey)
 
-Desenvolvedor Web e Estudante de T.I
-------------------------------------
+# Hi there! I'm Aquiles! 👋
 
-*   🌍  Moro em Florianópolis - SC
-*   ✉️  Você pode entrar em contato comigo no meu e-mail: [aquilleslerman@gmail.com](mailto:aquilleslerman@gmail.com)
-*   🧠  Aprendendo e aplicando JavaScript, Bootstrap e PHP.
-*   🛠️ Ferramentas que tenho conhecimento:
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a>
-                    </p>
+### 🤔 Facts about me!
+
+- I'm 20 and i'm studying Computer Science, branched at Systems Development in the Federal University of Santa Catarina(UFSC).
+- My favourite languages are **JavaScript**, **C** and **Python**, but im also learning **PowerShell** and **kernel** level logic.
+- Currently dual-booting **Windows 11** + [GlazeWM](https://github.com/glzr-io/glazewm) and **Debian**
+<br>
+
+<div>
+ <img width="50" src="/assets/BR.svg">
+ <img width="50" src="/assets/US.svg">
+</div>
+
+### 🖥️ Programming Languages
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,lua,nodejs,html,css,js,jquery,bootstrap,php&perline=13)
+ and more...
+
+### 🛠️ Tools
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,github,git,arduino,visualstudio,vscode,virtualbox,robloxstudio,canva&perline=13)
+
+
+<html align="center">
+  <div align="center">
+  <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=heitorrosa&show_icons=true&theme=dark#gh-dark-mode-only">
+      <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorrosa&layout=compact&theme=dark#gh-dark-mode-only">
+  </div>
+</html>
+
+<br>
