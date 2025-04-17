@@ -6,7 +6,7 @@
 
 - I'm 20 and i'm studying Computer Science, branched at Systems Development in the Federal University of Santa Catarina(UFSC).
 - My favourite languages are **JavaScript**, **C** and **Python**, but im also learning **PowerShell** and **kernel** level logic.
-- Currently dual-booting **Windows 11** + [GlazeWM](https://github.com/glzr-io/glazewm) and **Debian**
+- Currently dual-booting **Windows 11** + **Debian**
 <br>
 
 <div>
