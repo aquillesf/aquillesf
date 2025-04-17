@@ -13,10 +13,10 @@
  <img width="50" src="/assets/BR.svg">
  <img width="50" src="/assets/US.svg">
 </div>
+<br>
 
 ### 🖥️ Programming Languages
-![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,lua,nodejs,html,css,js,jquery,bootstrap,php&perline=13)
- and more...
+![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,lua,nodejs,html,css,js,postgresql,bootstrap,php&perline=13)
 
 ### 🛠️ Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,github,git,arduino,visualstudio,vscode,virtualbox,robloxstudio,canva&perline=13)
