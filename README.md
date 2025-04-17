@@ -19,7 +19,7 @@
 ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,cs,cpp,py,lua,nodejs,html,css,js,postgresql,bootstrap,php&perline=13)
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,android,github,git,arduino,visualstudio,vscode,virtualbox,robloxstudio,canva&perline=13)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,github,git,arduino,visualstudio,vscode,virtualbox,robloxstudio,canva&perline=13)
 
 
 <html align="center">
