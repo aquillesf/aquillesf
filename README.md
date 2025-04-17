@@ -1,10 +1,10 @@
-![](https://komarev.com/ghpvc/?username=heitorrosa&style=flat&color=grey)
+![](https://komarev.com/ghpvc/?username=aquillesf&style=flat&color=grey)
 
 # Hi there! I'm Aquiles! 👋
 
 ### 🤔 Facts about me!
 
-- I'm 20 and i'm studying Computer Science, branched at Systems Development in the Federal University of Santa Catarina(UFSC).
+- I'm 20 and i'm studying Computer Science, branched at Systems Development in the Federal University of Santa Catarina (UFSC).
 - My favourite languages are **JavaScript**, **C** and **Python**, but im also learning **PowerShell** and **kernel** level logic.
 - Currently dual-booting **Windows 11** + **Debian**
 <br>
