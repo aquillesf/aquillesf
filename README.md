@@ -5,7 +5,7 @@
 ### 🤔 Facts about me!
 
 - I'm 20 and i'm studying Computer Science, branched at Systems Development in the Federal University of Santa Catarina (UFSC).
-- My favourite languages are **JavaScript**, **C** and **Python**, but im also learning **PowerShell** and **kernel** level logic.
+- My favourite languages are **Lua**, **C** and **Python**, but im also learning **PowerShell** and **Kernel** level logic.
 - Currently dual-booting **Windows 11** + **Debian**
 <br>
 
