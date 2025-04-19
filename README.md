@@ -13,7 +13,6 @@
  <img width="50" src="/assets/BR.svg">
  <img width="50" src="/assets/US.svg">
 </div>
-<br>
 
 #
 
