@@ -4,8 +4,9 @@
 
 ### 🤔 Facts about me!
 
+- I’m currently working on developing an CRM with Odoo.
 - I'm 20 and i'm studying Computer Science, branched at Systems Development in the Federal University of Santa Catarina (UFSC).
-- My favourite languages are **Lua**, **C** and **Python**, but im also learning **PowerShell** and **Kernel** level logic.
+- My favourite languages are **Python**, **C** and **Lua**, but im also learning **Linux** and **Kernel** level logic.
 - Currently dual-booting **Windows 11** + **Debian**
 <br>
 
