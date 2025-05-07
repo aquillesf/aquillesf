@@ -11,8 +11,8 @@
 <br>
 
 <div>
- <img width="50" src="/assets/BR.svg">
- <img width="50" src="/assets/US.svg">
+ <img width="50" src="/assets/brazil-.png">
+ <img width="50" src="/assets/united-states.png">
 </div>
 
 #
