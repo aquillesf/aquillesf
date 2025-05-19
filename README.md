@@ -11,8 +11,7 @@
 <br>
 
 <div>
- <img width="50" src="/assets/brazil-.png">
- <img width="50" src="/assets/united-states.png">
+ 🇧🇷 🇺🇸
 </div>
 
 #
