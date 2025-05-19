@@ -11,8 +11,8 @@
 <br>
 
 <div>
- <img src = "assets/united-states.png">
- <img src = "assets/brazil-.png">
+ <img src = "assets/united-states.png" style = "50px;">
+ <img src = "assets/brazil-.png" style = "50px;">
 </div>
 
 #
