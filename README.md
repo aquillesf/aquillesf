@@ -21,7 +21,7 @@
 ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,c,py,nodejs,html,lua,js,ts,react,postgresql,bootstrap,php&perline=13)
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,github,git,arduino,visualstudio,androidstudio,vscode,virtualbox,dbeaver,canva&perline=13)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,github,git,arduino,androidstudio,visualstudio,vscode,virtualbox,dbeaver,canva&perline=13)
 
 
 <br>
