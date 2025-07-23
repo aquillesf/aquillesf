@@ -17,7 +17,7 @@
 
 #
 
-### 🖥️ Programming Languages & Frameworks
+### 🖥️ Programming Languages
 ![Programming Languages](https://go-skill-icons.vercel.app/api/icons?i=bash,powershell,c,py,nodejs,html,lua,js,ts,react,postgresql,bootstrap,php&perline=13)
 
 ### 🛠️ Tools
