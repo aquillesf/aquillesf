@@ -28,7 +28,9 @@
 
 <html align="center">
   <div align="center">
-     <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=aquillesf&show_icons=true&theme=dark#gh-dark-mode-only">
+     ![](https://github-readme-stats.vercel.app/api?username=aquillesf&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+     ![](https://github-readme-streak-stats.herokuapp.com/?user=aquillesf&theme=dark&hide_border=false)<br/>
+     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aquillesf&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   </div>
 </html>
 
