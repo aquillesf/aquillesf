@@ -24,3 +24,10 @@
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,github,git,arduino,androidstudio,visualstudio,vscode,virtualbox,dbeaver,canva&perline=13)
 
 <br>
+
+  <img 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquillesf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</p>
