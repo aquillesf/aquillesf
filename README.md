@@ -5,7 +5,7 @@
 ### 🤔 Facts about me!
 
 - 👨‍🎓 21 years old and studying **Computer Science**, branched at **Systems Development** in the Federal University of Santa Catarina **(UFSC)**.
-- 💼 I’m currently working on developing an Mobile system with **Typescript** and **React Native**.
+- 💼 I’m currently working on developing a Web System using Flask, an IoT using Arduino, and making music using JS and Strudel. 
 - 💻 My favourite languages are **Python**, **C** and **Lua**, but im also learning **ASM** in university.
 - 🐧 Currently dual-booting **Windows 11** + **Debian**
 <br>
